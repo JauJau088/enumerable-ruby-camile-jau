@@ -1,18 +1,34 @@
-# Enumerate
+# Enumerable
 
 > In this project we are learning how to use a module inside a Ruby class. For this we create a class MyList and a module MyEnumerable. Module MyEnumerable implements a subset of the functionality of Enumerable mixin.
 
+## Built With
+
+- Ruby
+
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple steps:
 
-- copy this link `https://github.com/camilevahviraki/Enumerate`.
-- get the directory that you want to clone the repository.
-- open the command prompt in this directory.
-- write `https://github.com/camilevahviraki/Enumerate`.
-- go to the repository folder in your command prompt `Enumerate`.
-- Open terminal in that folder run `bundle install`.
-- run `ruby my_list.rb`
+### Prerequisites
+
+- ruby installed
+
+### Setup
+
+- Clone the project
+```terminal
+git clone git@github.com:JauJau088/enumerable-ruby-camile-jau.git
+```
+
+- cd into the project directory
+```terminal
+cd <directory>
+```
+
+- Once you've cloned the repo and are inside the directory, run `bundle install` command to get all necessary Gemfile installations
+
+- **Yep, that's it!** you are now all set and simply run `ruby my_list.rb` to execute the file
 
 
 ## Authors
